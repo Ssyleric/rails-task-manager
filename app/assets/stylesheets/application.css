@@ -13,3 +13,6 @@
  *= require_tree .
  *= require_self
  */
+.fas {
+  margin-left: 25px;
+}
